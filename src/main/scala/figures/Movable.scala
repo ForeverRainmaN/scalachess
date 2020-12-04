@@ -1,0 +1,5 @@
+package figures
+
+trait Movable {
+
+}
